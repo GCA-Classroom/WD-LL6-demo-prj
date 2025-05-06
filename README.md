@@ -1,1 +1,1 @@
-# WD-LL6-demo-prj
+# WD LiveLab 6: Demo Starter
